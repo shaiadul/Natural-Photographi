@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;  
+}
+/* header style */
+.back{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../img/pic21.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat ;
+}
+.link-btn{
+    text-decoration: none;
+    color: aliceblue;
+    border: 2px solid #3DBE29;
+    border-radius: 25px;
+    padding: 5px;
+}
+.link-btn:hover{
+    background-color: #3DBE29;
+    font-weight: 300;
+    color: black;
+}
+
+.mini-info{
+    background-color:#3DBE29 ;
+}
+
+/* about me section */
+.about-me{
+    background-color: rgba(184, 175, 175, 0.664);
+}
+.me{
+    color: #3DBE29;
+    padding-bottom: 30px;
+}
+.me-p{
+    color: #3DBE29;
+}
+.me-a{
+    text-decoration: none;
+    padding: 5px;
+    color: azure;
+    background-color: #3DBE29;
+}
+.me-a:hover{
+    color: azure;
+    opacity: 0.7;
+}
+/* cart part */
+.cards-style{
+    background-color: #3DBE29;
+    color: antiquewhite;
+    
+}
+.card-title{
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.btns{
+    text-decoration: none;
+    background-color:rgba(245, 245, 245, 0.63) ;
+    padding: 5px 7px;
+    font-weight: 700;
+    color: black;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.btns:hover{
+    opacity: 0.5;
+}
+/* photo details */
+.text-me{
+    color: #3DBE29;
+}
+/* portfolio part */
+.portfolio{
+    background-color: black;
+}
+/* last section */
+.last-section{
+    background-color: #7ebb74;
+}

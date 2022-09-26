@@ -1,1 +1,1 @@
-# Natural-Photog
+# Natural-Photo

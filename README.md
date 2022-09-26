@@ -1,1 +1,1 @@
-# Natural-Photographi
+# Natural-Photograph
